@@ -1,10 +1,10 @@
 # Sample REST API
 
-Welcome to the Sample REST API! This API provides endpoints for [describe what your API does or what it is used for].
+Welcome to the Sample REST API! This API provides endpoints for user authentication, database connection and queries and mcuh more..
 
 ## Installation
 
-To use this API, you'll need [mention any dependencies or prerequisites]. To install and run the API, follow these steps:
+To use this API, you'll need [dependecies as given in the package.json]. To install and run the API, follow these steps:
 
 1. Clone this repository to your local machine:
    
@@ -19,25 +19,6 @@ npm start
 
 
 The API should now be running on http://localhost:3000.
-
-## Usage
-
-Once the server is running, you can use the following endpoints:
-
-- **GET /api/endpoint**: [describe what this endpoint does]
-- **POST /api/endpoint**: [describe what this endpoint does]
-- **PUT /api/endpoint**: [describe what this endpoint does]
-- **DELETE /api/endpoint**: [describe what this endpoint does]
-
-Make sure to include any required headers or request parameters for each endpoint.
-
-## Documentation
-
-For detailed documentation on each endpoint and its usage, refer to the [API documentation](link-to-documentation).
-
-## Contributing
-
-If you'd like to contribute to this project, feel free to submit a pull request or open an issue. Any contributions are welcome!
 
 ## License
 
